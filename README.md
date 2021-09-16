@@ -1,3 +1,6 @@
+# 文章地址
+https://www.whezh.com/react-native-circular-slider/
+
 # rn-circular-slider
 
 React Native circular slider based on [react-native-svg](https://github.com/react-native-community/react-native-svg)
